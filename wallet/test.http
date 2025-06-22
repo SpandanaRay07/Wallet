@@ -1,0 +1,8 @@
+POST http://localhost:8081/api/register
+Content-Type: application/json
+
+{
+  "name": "Spandana",
+  "email": "spandana@example.com",
+  "password": "secure123"
+}
